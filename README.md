@@ -16,3 +16,12 @@ If you see anything that is no longer maintained or is not a good fit, please su
 ### C
 
 - [Console Labs](console.so) - [github](https://github.com/consolelabs)
+
+### K
+
+- [KyberSwap](kyberswap.com) - [github](https://github.com/KyberNetwork/openbook-spl)
+
+### S
+
+- [Solscan](solscan.io) - [github](https://github.com/solscanofficial)
+
